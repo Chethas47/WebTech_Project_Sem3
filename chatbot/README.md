@@ -5,3 +5,9 @@ here goes the instructions
     this shd be run before running backend 
     if  not set it will throw error saying google thing is not found
 the additional dependencies that are to be added is dialogflow,dialogflow-fulfillment,and actions-on-google
+2.  cd chatbot 
+    nodemon index.js
+3. in new terminal
+    cd chatbot
+    cd client 
+    npm run start
